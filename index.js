@@ -20,4 +20,4 @@ client.on('message', message => {
 		message.channel.send('Yhahaha Hayukkk Para Badut <@620280799777783808> <@307481267308462080> <@715901123822878869>');
 	}
 })
-client.login('NzYxMDU4MTU1ODM1Njg2OTcy.X3VEpA.0v0dkpjhQjI09vHD26Ee24u8KYA');
+client.login('TOKEN KONTOL DISINI');
